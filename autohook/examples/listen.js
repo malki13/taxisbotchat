@@ -18,7 +18,7 @@ const sleep = util.promisify(setTimeout);
 const requestTokenURL = new URL('https://api.twitter.com/oauth/request_token');
 const accessTokenURL = new URL('https://api.twitter.com/oauth/access_token');
 const authorizeURL = new URL('https://api.twitter.com/oauth/authorize');
-console.log(process.env.TWITTER_ACCESS_TOKEN);
+console.log(process.env.TWITTER_CONSUMER_KEY);
 async function input(prompt) {
   return new Promise(async (resolve, reject) => {
     readline.question(prompt, (out) => {

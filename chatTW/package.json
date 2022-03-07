@@ -1,0 +1,15 @@
+{
+  "name": "app.taxis",
+  "version": "1.0.0",
+  "description": "aplicacion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "taxisbot",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "twitter-autohook": "^1.7.2"
+  }
+}

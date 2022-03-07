@@ -1,0 +1,49 @@
+fmzw5tNEQkn09yx1PTf96yXAi
+
+64M1V4P2J0TT7mq0fASKf51qnE6v52lSgH6MCsJmrr0PZMRkEO
+
+
+250372770-AgXLD0UMJ1KViqFRzuxN59RWtAIcGhVNxUJEO5t4
+
+
+xH7vIjjiJv962OX7kO1SUbjqiyVUumNPlhoWbH13Wuu8X
+
+
+
+-TAXISBOT-
+TWITTER_CONSUMER_KEY=JtombrRmvKErutXDzDFGQmGNM
+TWITTER_CONSUMER_SECRET=kinPL7xDlq0jKffdkWNvias28SHsjA61CXNhsjkOgEDwXDj6Lv
+TWITTER_ACCESS_TOKEN=250372770-ahwEuRIlRzRUPzZxCqcU6IA0iy56TraqD5NgXEBb
+TWITTER_ACCESS_TOKEN_SECRET=PlzkeR1VO7Q4e1sn5v29BRUi85AYpAKlJrwEb7uWMOeUm
+
+
+-GABRIEL
+
+-TAXISBOT-
+TWITTER_CONSUMER_KEY=fmzw5tNEQkn09yx1PTf96yXAi
+TWITTER_CONSUMER_SECRET=64M1V4P2J0TT7mq0fASKf51qnE6v52lSgH6MCsJmrr0PZMRkEO
+TWITTER_ACCESS_TOKEN=250372770-AgXLD0UMJ1KViqFRzuxN59RWtAIcGhVNxUJEO5t4
+TWITTER_ACCESS_TOKEN_SECRET=xH7vIjjiJv962OX7kO1SUbjqiyVUumNPlhoWbH13Wuu8X
+
+
+
+TWITTER_CONSUMER_KEY= fmzw5tNEQkn09yx1PTf96yXAi
+TWITTER_CONSUMER_SECRET= 64M1V4P2J0TT7mq0fASKf51qnE6v52lSgH6MCsJmrr0PZMRkEO
+TWITTER_ACCESS_TOKEN= 250372770-AgXLD0UMJ1KViqFRzuxN59RWtAIcGhVNxUJEO5t4
+TWITTER_ACCESS_TOKEN_SECRET= xH7vIjjiJv962OX7kO1SUbjqiyVUumNPlhoWbH13Wuu8X
+TWITTER_WEBHOOK_ENV= prod
+NGROK_AUTH_TOKEN= 264Ip9jcZ1i7mK9x5AJxP8lFG2x_KT6QcJCjxVfEJADELBrK
+
+
+Event received: {"for_user_id":"250372770","direct_message_events":
+[{"type":"message_create","id":"1500951328109047812",
+"created_timestamp":"1646689657605",
+"message_create":{"target":{"recipient_id":"250372770"},
+"sender_id":"1499765156196327434","
+message_data":{"text":"hola",
+"entities":{"hashtags":[],"symbols":[],"user_mentions":[],"urls":[]}}}}],
+"users":{"1499765156196327434":{"id":"1499765156196327434",
+"created_timestamp":"1646406874826",
+"name":"Taxi Bot","screen_name":"taxisbot",
+"location":"Cuenca","description":"Movilizarte nunca fue tan f\u00e1cil, solo env\u00eda un mensaje de texto por 
+WhatsApp, Messenger o a trav\u00e9s de la P\u00e1gina web.","url":"https:\/\/t.co\/gIiw7hokkT","protected":false,"verified":false,"followers_count":3,"friends_count":1,"statuses_count":1,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/1499792196597436424\/q7ndIA4x_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/1499792196597436424\/q7ndIA4x_normal.jpg"},"250372770":{"id":"250372770","created_timestamp":"1297381493000","name":"Gabriel Chuchuca","screen_name":"GavriellALX","location":"Ecuador-Cuenca","description":"\ud83d\udc7d","protected":true,"verified":false,"followers_count":38,"friends_count":75,"statuses_count":102,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/1470789513903587339\/gP8RRxaG_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/1470789513903587339\/gP8RRxaG_normal.jpg"}}}

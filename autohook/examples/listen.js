@@ -1,5 +1,5 @@
 const {Autohook} = require('..');
-
+const dotenv = require('dotenv').config();
 const qs = require('querystring');
 const request = require('request');
 const readline = require('readline').createInterface({

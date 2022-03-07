@@ -1,0 +1,26 @@
+{
+  "name": "autohook",
+  "version": "1.0.0",
+  "description": "chatboot",
+  "main": "index.js",
+  "bin": {
+    "autohook": "./cli.js"
+  },
+  "author": "Twitter",
+  "license": "MIT",
+  "keywords": [
+    "twitter",
+    "twitter-api",
+    "webhooks"
+  ],
+  "dependencies": {
+    "commander": "^2.20.0",
+    "dotenv": "^8.0.0",
+    "needle": "^2.3.3",
+    "ngrok": "^3.2.1",
+    "nock": "^12.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  }
+}
